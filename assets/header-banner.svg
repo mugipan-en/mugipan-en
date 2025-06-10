@@ -1,0 +1,58 @@
+<svg width="1200" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1b27;stop-opacity:1" />
+      <stop offset="25%" style="stop-color:#2d1b69;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#11998e;stop-opacity:1" />
+      <stop offset="75%" style="stop-color:#38ef7d;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a1b27;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#38ef7d;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#11998e;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="300" fill="url(#grad1)"/>
+  
+  <!-- Circuit pattern background -->
+  <g opacity="0.1" stroke="#ffffff" stroke-width="1" fill="none">
+    <path d="M50,50 L150,50 L150,100 L250,100 L250,150 L350,150"/>
+    <path d="M400,50 L500,50 L500,100 L600,100 L600,150 L700,150"/>
+    <path d="M750,50 L850,50 L850,100 L950,100 L950,150 L1050,150"/>
+    <path d="M100,200 L200,200 L200,250 L300,250"/>
+    <path d="M450,200 L550,200 L550,250 L650,250"/>
+    <path d="M800,200 L900,200 L900,250 L1000,250"/>
+    <circle cx="150" cy="50" r="3"/>
+    <circle cx="250" cy="100" r="3"/>
+    <circle cx="350" cy="150" r="3"/>
+    <circle cx="500" cy="50" r="3"/>
+    <circle cx="600" cy="100" r="3"/>
+    <circle cx="700" cy="150" r="3"/>
+    <circle cx="850" cy="50" r="3"/>
+    <circle cx="950" cy="100" r="3"/>
+    <circle cx="1050" cy="150" r="3"/>
+  </g>
+  
+  <!-- Main title -->
+  <text x="600" y="150" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="48" font-weight="bold" fill="url(#textGrad)">
+    mugipan-en
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="600" y="200" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="24" fill="#ffffff" opacity="0.8">
+    Software Engineer &amp; Cloud Enthusiast
+  </text>
+  
+  <!-- Decorative elements -->
+  <g fill="#38ef7d" opacity="0.6">
+    <polygon points="50,150 70,130 70,170"/>
+    <polygon points="1150,150 1130,130 1130,170"/>
+  </g>
+  
+  <!-- Code brackets -->
+  <text x="100" y="150" font-family="JetBrains Mono, monospace" font-size="60" fill="#11998e" opacity="0.7">{</text>
+  <text x="1070" y="150" font-family="JetBrains Mono, monospace" font-size="60" fill="#11998e" opacity="0.7">}</text>
+</svg>
