@@ -1,6 +1,6 @@
 <div align="center">
   
-![Header](https://raw.githubusercontent.com/mugipan-en/mugipan-en/main/assets/header-banner.svg)
+![Header Banner](./assets/header-banner.svg)
 
 # 👋 Hi there! I'm **mugipan-en**
 
@@ -9,9 +9,9 @@
 
 ---
 
-[![Profile Views](https://komarev.com/ghpv/?username=mugipan-en&color=0891b2&style=flat-square&label=Profile+Views)](https://github.com/mugipan-en)
+![Profile Views](https://komarev.com/ghpv/?username=mugipan-en&color=0891b2&style=flat-square&label=Profile+Views)
 [![GitHub Followers](https://img.shields.io/github/followers/mugipan-en?style=flat-square&color=0891b2&labelColor=1c1917)](https://github.com/mugipan-en?tab=followers)
-[![Years Badge](https://badges.pufler.dev/years/mugipan-en?style=flat-square&color=0891b2&labelColor=1c1917)](https://github.com/mugipan-en)
+[![GitHub Stars](https://img.shields.io/github/stars/mugipan-en?affiliations=OWNER&style=flat-square&color=0891b2&labelColor=1c1917)](https://github.com/mugipan-en?tab=repositories)
 
 </div>
 
@@ -181,7 +181,7 @@ const mugipan = {
 ### 💼 Interested in:
 **Backend Engineering** • **Cloud Architecture** • **DevOps & Infrastructure** • **Open Source Contributions**
 
-![Footer](https://raw.githubusercontent.com/mugipan-en/mugipan-en/main/assets/footer-wave.svg)
+![Footer Wave](./assets/footer-wave.svg)
 
 **⭐ If my work helps you, consider giving a star to support open source development!**
 
