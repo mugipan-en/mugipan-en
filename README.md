@@ -9,7 +9,7 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpv/?username=mugipan-en&color=0891b2&style=flat-square&label=Profile+Views)
+![Profile Views](https://visitcount.itsvg.in/api?id=mugipan-en&icon=5&color=6)
 [![GitHub Followers](https://img.shields.io/github/followers/mugipan-en?style=flat-square&color=0891b2&labelColor=1c1917)](https://github.com/mugipan-en?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/mugipan-en?affiliations=OWNER&style=flat-square&color=0891b2&labelColor=1c1917)](https://github.com/mugipan-en?tab=repositories)
 
