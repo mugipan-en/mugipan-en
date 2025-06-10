@@ -9,9 +9,9 @@
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=mugipan-en&icon=5&color=6)
 [![GitHub Followers](https://img.shields.io/github/followers/mugipan-en?style=flat-square&color=0891b2&labelColor=1c1917)](https://github.com/mugipan-en?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/mugipan-en?affiliations=OWNER&style=flat-square&color=0891b2&labelColor=1c1917)](https://github.com/mugipan-en?tab=repositories)
+[![GitHub Repositories](https://img.shields.io/badge/dynamic/json?logo=github&label=Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmugipan-en&style=flat-square&color=0891b2&labelColor=1c1917)](https://github.com/mugipan-en?tab=repositories)
 
 </div>
 
