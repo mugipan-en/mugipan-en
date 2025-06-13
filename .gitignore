@@ -1,0 +1,14 @@
+# Prevent terraform project duplication
+terraform-*/
+
+# Empty folders
+images/
+
+# IDE and system files
+.DS_Store
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
